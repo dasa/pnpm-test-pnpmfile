@@ -1,4 +1,4 @@
-# PNPM 12 doesn't support ESM pnpmfile with `js` extention
+# PNPM 12 doesn't support ESM pnpmfile with `js` extension
 
 The `package.json` includes `"type": "module"`. This works in PNPM 11.
 
