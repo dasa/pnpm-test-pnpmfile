@@ -16,7 +16,7 @@ The `package.json` includes `"type": "module"`. This works in PNPM 11.
 ```
 Error: ERR_PNPM_PNPMFILE_NOT_FOUND
 
-  × pnpmfile at "/Users/dasa2721/Developer/misc/test-pnpmfile/pnpmfile.js" is not found
+  × pnpmfile at "/Users/dasa/Developer/misc/test-pnpmfile/pnpmfile.js" is not found
 ```
 
 This can also be reproduced when the global pnpm version is v11 using `pn with 12.5.1 install`.
